@@ -75,3 +75,5 @@ Theme: Light and Elegant
 - You can use the **#group-project** channel on Discord to discuss anything related to this project.
 
 Happy coding!
+
+
